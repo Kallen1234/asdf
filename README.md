@@ -20,6 +20,13 @@
                 <td><a href="https://example.com/job2">Apply Here</a></td>
                 <td>2024-07-26</td>
             </tr>
+             <tr>
+                <td>Company c</td>
+                <td>Todd</td>
+                <td>Yukon Oklahoma</td>
+                <td><a href="https://example.com/job2">Apply Here</a></td>
+                <td>2024-07-26</td>
+            </tr>
         </tbody>
     </table>
 </body>
